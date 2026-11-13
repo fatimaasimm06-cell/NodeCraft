@@ -1,0 +1,9 @@
+[theme]
+base = "dark"
+backgroundColor = "#0B1020"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

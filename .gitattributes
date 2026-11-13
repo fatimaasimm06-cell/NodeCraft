@@ -1,0 +1,4 @@
+# Keep Unix line endings in the repo and on checkout (build.sh and the Makefile
+# must run on Linux, e.g. Streamlit Cloud or CI).
+* text=auto eol=lf
+*.wasm binary

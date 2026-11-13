@@ -1,0 +1,12 @@
+# Native test build (make test)
+build/
+*.exe
+*.o
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Keep the built web files (web/nodecraft.js, .wasm, .single.js):
+# Streamlit Cloud and static hosts cannot run Emscripten, so they must be committed.
